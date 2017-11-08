@@ -1,0 +1,16 @@
+@charset "utf8";
+
+/* All Tags */
+* {margin: 0px; padding: 0px}
+body {background-color: #ddd}
+a { text-decoration: none; color: #444}
+a:hover {color: #999}
+img {border-radius: 15px; border: none}
+
+/* Wrap */
+#wrap {position: relative;width: auto; height: auto; margin: 0px auto}
+#wrap div {float: left; background-color: #fff; border-radius: 15px; box-sizing: border-box; width: 280px; height: auto; margin: 10px; padding: 10px}
+#wrap div img {width: 100%}
+#wrap div a {display: block; font-size: 18px; font-weight: bold; line-height: 40px; text-align: center}
+#wrap a:hover {color: #444}
+#wrap div img:hover {opacity: 0.5}

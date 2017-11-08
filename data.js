@@ -1,0 +1,48 @@
+
+// 模擬數據Json，只能使用 " " 
+var data=[{
+    "src":"../jQuery-waterfall/pics/1.JPG",
+    "title":"第1張"
+},{
+    "src":"../jQuery-waterfall/pics/2.JPG",
+    "title":"第2張"
+},{
+    "src":"../jQuery-waterfall/pics/3.JPG",
+    "title":"第3張"
+},{
+    "src":"../jQuery-waterfall/pics/4.JPG",
+    "title":"第4張"
+},{
+    "src":"../jQuery-waterfall/pics/5.JPG",
+    "title":"第5張"
+},{
+    "src":"../jQuery-waterfall/pics/6.JPG",
+    "title":"第6張"
+},{
+    "src":"../jQuery-waterfall/pics/7.JPG",
+    "title":"第7張"
+},{
+    "src":"../jQuery-waterfall/pics/8.JPG",
+    "title":"第8張"
+},{
+    "src":"../jQuery-waterfall/pics/9.JPG",
+    "title":"第9張"
+},{
+    "src":"../jQuery-waterfall/pics/10.JPG",
+    "title":"第10張"
+},{
+    "src":"../jQuery-waterfall/pics/11.JPG",
+    "title":"第11張"
+},{
+    "src":"../jQuery-waterfall/pics/12.JPG",
+    "title":"第12張"
+},{
+    "src":"../jQuery-waterfall/pics/13.JPG",
+    "title":"第13張"
+},{
+    "src":"../jQuery-waterfall/pics/14.JPG",
+    "title":"第14張"
+},{
+    "src":"../jQuery-waterfall/pics/15.JPG",
+    "title":"第15張"
+}]
